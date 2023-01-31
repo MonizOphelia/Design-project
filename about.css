@@ -1,0 +1,26 @@
+body{
+    background-color:rgb(31, 82, 53);
+    color: beige;
+}
+h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: 3;
+    text-align: center;
+    
+}
+p{
+    font-size:20px;
+    font-weight: 3;
+    font-family: Arial, Helvetica, sans-serif;
+    position: absolute;
+    left: 20%;
+    right: 20%;
+}
+li{
+    font-size: 25px;
+    padding-right: 65%;
+}
+a{
+
+    text-decoration: underline;
+}
